@@ -14,7 +14,7 @@ How to launch this app:
 
 7. Run application, go to your browser and go to "localhost:8080/".
 
-8. Test and explore application :).
+8. Test and explore application, login in upper right corner, then employee panel in upper left corner.
 
 
 
